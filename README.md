@@ -42,7 +42,7 @@ snap = mdf.process(Sample(t, "foot", accel=a, gyro=g, mag=m))
 Same interface for synthetic data today and a live multi-device stream later.
 
 ## Planned changes
-- [ ] Web UI (Streamlit + Plotly) — planned
+- [ ] Web UI (Streamlit + Plotly)  (started)
 - [ ] Real-device ingestion + live streaming
 - [ ] Performance pass (currently ~1.6k full steps/s/core)
 
